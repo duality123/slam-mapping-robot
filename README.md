@@ -10,7 +10,7 @@
 
 
 
-<p align="left"><img src="https://raw.githubusercontent.com/duality123/slam-mapping-robot/refs/heads/main/demo-screenshot.png?token=GHSAT0AAAAAADZIACEUCRWU7UZNPSKU6BSS2OMN67A"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/duality123/slam-mapping-robot/refs/heads/main/demo-screenshot.png?token=GHSAT0AAAAAADZIACEV4MCKNXBHNNOBPHFA2OMUEOQ"/></p>
 
 
 
