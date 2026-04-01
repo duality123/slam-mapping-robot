@@ -14,5 +14,5 @@ view DEMO : https://youtu.be/YIJuJ5fs\_M4?si=341i0UdkonZR-o2B
 
 
 
-
+Schematic and more infos coming soon...
 
