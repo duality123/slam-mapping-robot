@@ -10,7 +10,7 @@ view DEMO : https://youtu.be/YIJuJ5fs\_M4?si=341i0UdkonZR-o2B
 
 
 
-!\[Project Screenshot](https://raw.githubusercontent.com/duality123/slam-mapping-robot/main/demo-screenshot.png)
+!\[Project Screenshot](https://github.com/duality123/slam-mapping-robot/blob/main/demo-screenshot.png)
 
 
 
