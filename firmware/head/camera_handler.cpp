@@ -1,7 +1,10 @@
 #include "camera_handler.h"
 #include "camera_pins.h"
 #include <Arduino.h>
+#include "esp_camera.h"
+void CameraHandler::setupLedFlash(int num){
 
+}
 void CameraHandler::init() {
     camera_config_t config;
     config.ledc_channel = LEDC_CHANNEL_0;
@@ -86,6 +89,6 @@ void CameraHandler::init() {
 
     // Setup LED FLash if LED pin is defined in camera_pins.h
     #if defined(LED_GPIO_NUM)
-    setupLedFlash(LED_GPIO_NUM);
+    this->setupLedFlash(LED_GPIO_NUM);
     #endif 
 }

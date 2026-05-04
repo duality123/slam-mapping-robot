@@ -7,7 +7,7 @@
 class App {
 public:
     void wifi_setup(const char* SSID, const char* password);
-    void ros_setup(const char* SSID, const char* password, const char* serverIP);
+    void ros_setup( char* SSID, char* password, char* serverIP);
     void loop();
 
 private:

@@ -27,7 +27,7 @@ void MicroROSNode::publish(int value) {
     rcl_publish(&publisher, &msgPub, NULL);
 }
 
-void MicroROSNode::init(const char* ssid, const char* password, const char* agent_ip) {
+void MicroROSNode::init( char* ssid,  char* password, char* agent_ip) {
     set_microros_wifi_transports(ssid, password, agent_ip, 8888);
 
     delay(2000);

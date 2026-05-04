@@ -13,7 +13,7 @@ void App::wifi_setup(const char* ssid, const char* password) {
 
 }
 
-void App::ros_setup(const char* ssid, const char* password, const char* serverIP){
+void App::ros_setup( char* ssid,char* password, char* serverIP){
     ros.init(ssid,  password, serverIP);
 }
 

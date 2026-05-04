@@ -10,7 +10,7 @@
 
 class MicroROSNode {
 public:
-    void init(const char* ssid, const char* password, const char* agent_ip);
+    void init( char* ssid, char* password, char* agent_ip);
     void spin();
     void publish(int value);
 
